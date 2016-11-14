@@ -1,0 +1,41 @@
+body {
+  background-image: url(../images/bgpattern.gif);
+  text-align: center;
+  margin: 0;
+  font: 12px/1.5em "Trebuchet MS", Verdana, Arial, sans-serif;
+}
+
+#main {
+  background-color: #FFFFFF;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  width: 700px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+p {
+  padding: 0px 25px 0px 25px;
+}
+
+ul, ol {
+  margin-left: 40px;
+  padding-right: 60px;
+}
+
+ul {
+  list-style: url(../images/bullet.jpg);
+}
+
+a {
+  font-weight: bold;
+  color: #AD3110;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #6B0808;
+  text-decoration: underline overline;
+}

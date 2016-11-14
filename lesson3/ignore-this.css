@@ -1,0 +1,62 @@
+/* Oh, you just HAD to open this, didn't you? I was using this
+as a CSS placeholder during development so I didn't have to
+copy and paste each little change across the multiple files.
+I'm leaving this note because I'm probably way too lazy to
+delete the file afterward. */
+
+body {
+  background-color: #E5E5E5;
+  font-family: sans-serif;
+}
+
+h1 {
+    text-align: left
+}
+
+h6 {
+  font-weight: normal;
+  font-style: italic;
+  color: #333333;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  width: 66%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.navbar {
+  width: 100%;
+  height: 60px;
+  background: #333333;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.links {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.container {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  margin-top: 100px;
+  text-align: left;
+}
+
+#right {
+    text-align: right;
+}

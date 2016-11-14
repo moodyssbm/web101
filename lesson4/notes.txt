@@ -1,0 +1,34 @@
+// HTML definitions go here
+[x]  title = Ethan Moody - Learning Module 4 Assignment
+[x]  h1 @ top of page = same as title
+[x]  h2 signifies the section names
+[x]  p use at least one (obvs)
+[ ]  h2 make anchor links!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[x]  HTML page named index.html
+[x]  Find 5 web hosting companies not listed in the book
+      * iPage ($1.99/mo - Scalable - Unlimited)
+      * A2 Hosting ($3.92 per mo - Unlimited - Unlimited)
+      * BlueHost ($2.95 per mo / Unlimited - Unlimited)
+      * HostGator ($3.48//)
+      * (//)
+[x]  Put them^ in a section called "Web Hosting Res."
+[x]  ^Each link must be absolute (duh) and target _blank
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[x]  Create a section called domain name ideas (3)
+      * [x]
+      * [x]
+      * [x]
+[x]  ^^Also check to see if they are available^^
+[x]  Start this block with this specific text:
+      "I've come up with the following domain name ideas for myself and searched www.GoDaddy.com and these are the top three ideas I have."
+[x]  Create active links for taken domains
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[x]  Create a new section called "My Resources"
+[x]  "My Resources" = list of links:
+      * [x] Head first source files
+      * [x] valencia graphics program site
+      * [x] valencia graphics blog
+      * [x] student showcase flickr
+      * [x] favorite website
+[x]  Each item in ^this list must have a title attr.
