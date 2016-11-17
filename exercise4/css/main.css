@@ -1,28 +1,38 @@
 body {
   color: gold;
   font-family: Helvetica, sans-serif;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 #headerImage {
   margin-left: -15px;
 }
 
+.container {
+  height: auto;
+  width: 915px;
+}
+
 .navigation {
   text-align: right;
   width: 165px;
   line-height: 5px;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
   font-weight: bold;
-  margin-top: 33px;
+  float: left;
 }
 
 .content {
-  /* stuff */
+  float: left;
+  width: 475px;
+  margin-left: 50px;
+  margin-top: -1px;
 }
 
 h1 {
-  font-size: 150%;
+  font-size: 125%;
+  padding-top: 30px;
+  letter-spacing: 6px;
 }
 
 .navigation h1 {
@@ -34,6 +44,10 @@ h1 {
 
 p {
   color: black;
+}
+
+.content p {
+  line-height: 20px;
 }
 
 a {
