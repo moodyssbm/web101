@@ -1,7 +1,0 @@
-Logic: So I have to think?
-
-Yes, it's time to make you think about how to use what you've learned so that you may apply it into a functional web layout. You have learned the fundamentals of how to create HTML pages and how by using CSS you can style the web pages to look rather nice (considering the limitations of the web!) And now it's time to end with the grand finale - mastering a CSS Positioned layout. Before you know it you will be styling like a pro.
-
-
-Will I really use this again?
-If you intend on continuing to learn web design you will certainly cross paths with HTML & CSS again. It's important that you understand that it is not something that comes to everyone easily, therefore it does take time as well as persistence to really master. With practice you will find the syntax more recognizable and easier to understand. One thing is for sure, if you plan to continue on as a web designer - you can't afford to forget HTML & CSS.
