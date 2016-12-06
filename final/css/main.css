@@ -4,13 +4,9 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-p {
-  text-indent: 20px;
-}
-
 #headCont, #mainCont, #navCont {
   display: block;
-  width: 900px;
+  width: 920px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
@@ -26,12 +22,25 @@ p {
 #navCont {
   background: rgb(21, 28, 54);
   color: white;
+  text-align: right;
+}
+
+#button {
+  display: inline-block;
+  width: 225px;
+  padding: 0;
+  margin: 0;
   text-align: center;
 }
 
+#button img {
+  width: 64px;
+  height: 64px;
+}
+
 #navCont a {
+  color: white;
   text-decoration: none;
-  color: rgb(251, 221, 197);
 }
 
 #mainCont {
