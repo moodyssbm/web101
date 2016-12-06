@@ -1,3 +1,41 @@
 body {
   background-image: url('../img/bg.png');
+  background-size: 100%;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  text-indent: 20px;
+}
+
+#headCont, #mainCont, #navCont {
+  display: block;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+#headCont {
+  background: rgb(72, 87, 120);
+  color: white;
+  padding-bottom: 20px;
+  text-align: right;
+}
+
+#navCont {
+  background: rgb(21, 28, 54);
+  color: white;
+  text-align: center;
+}
+
+#navCont a {
+  text-decoration: none;
+  color: rgb(251, 221, 197);
+}
+
+#mainCont {
+  background: rgb(255, 248, 230);
+  color: rgb(21, 28, 54);
+  margin-top: 0px;
 }
