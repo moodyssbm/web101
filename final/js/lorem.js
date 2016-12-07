@@ -32,7 +32,7 @@ window.onload = function() {
   mainCont.innerHTML += '</p>';
   mainCont.innerHTML += lorem(3);
   mainCont.innerHTML += '</p>';
-  head.innerHTML += lorem(1, 'short');
+  
 }
 
 // god bless js for dummy text generation
