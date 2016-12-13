@@ -75,3 +75,9 @@ a {
   padding: 5px;
   opacity: 0.25;
 }
+
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
