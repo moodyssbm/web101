@@ -2,6 +2,7 @@ body {
   background-image: url('../img/bg.png');
   background-size: 100%;
   font-family: Helvetica, sans-serif;
+  background-attachment: fixed;
 }
 
 h1 {
@@ -80,4 +81,21 @@ video {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#mePic {
+  float: right;
+  width: 300px;
+}
+
+#immFamPic {
+  float: left;
+  width: 160px;
+  padding: 0px 5px;
+}
+
+#extFamPic {
+  float: right;
+  width: 333px;
+  padding: 0px 5px;
 }
