@@ -99,3 +99,15 @@ video {
   width: 333px;
   padding: 0px 5px;
 }
+
+#atom {
+  float: left;
+  height: 220px;
+  padding: 0px 5px;
+}
+
+#vidya {
+  float: right;
+  width: 250px;
+  padding: 0px 5px;
+}
