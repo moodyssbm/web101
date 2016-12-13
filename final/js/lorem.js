@@ -7,9 +7,11 @@ let short = 'Lorem ipsum dolor sit amet. ';
 
 let single = ['Lorem', 'Ipsum', 'Dolor', 'Dit', 'Amet'];
 
-function lorem(x, len) {
+function lorem(x, tag, len) {
   let result = '';
-
+  result += '<';
+  result += tag;
+  result += '>'
 
   if(len == 'short') {
     for(i=0; i!=x; i++) {
@@ -20,19 +22,16 @@ function lorem(x, len) {
       result += long;
     }
   }
+  result += '</';
+  result += tag;
+  result += '>';
   return result;
 }
 
 window.onload = function() {
-  mainCont.innerHTML = '<p>';
-  head.innerHTML = '';
-  mainCont.innerHTML += lorem(5);
-  mainCont.innerHTML += '</p>';
-  mainCont.innerHTML += lorem(2);
-  mainCont.innerHTML += '</p>';
-  mainCont.innerHTML += lorem(3);
-  mainCont.innerHTML += '</p>';
-  
+  mainCont.innerHTML += lorem(5, 'p');
+  mainCont.innerHTML += lorem(2, 'p');
+  mainCont.innerHTML += lorem(3, 'p');
 }
 
 // god bless js for dummy text generation
